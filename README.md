@@ -3,3 +3,4 @@ Performance in JS Playground
 
 
 * JsPerf
+* benchmark.js
